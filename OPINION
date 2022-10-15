@@ -1,0 +1,13 @@
+списки
+list.append(i, x) , list.pop([i]) , list.copy() ,  list.clear(), list.count(x)
+
+словари
+dict.clear() , dict.copy() , dict.items() , dict.popitem() , dict.update([other])
+
+множества
+set.difference_update(other, ...); set -= other | ... , set.add(elem) ,
+set.copy() , set.remove(elem) , set.clear()
+
+строки
+S.capitalize() , S.format(*args, **kwargs , string.lower() ,
+string.isalpha() , string.isdigit()
